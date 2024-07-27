@@ -21,7 +21,7 @@ const players = [
   { streamer: "Gianlucca Pagano", username: "Shianlocs", tag: "SQC", rol: "jungle" },
   { streamer: "Eric Cristobal", username: "Garismunaskyo2", tag: "SQC", rol: "jungle" },
   { streamer: "Carlos Ayala", username: "ElPorkisssssssss", tag: "SQC", rol: "adc" },
-  { streamer: "Sebastian Droguett", username: "DroguettS", tag: "SQC", rol: "jungle" },
+  { streamer: "Sebastian Droguett", username: "DroguettS", tag: "SQC", rol: "adc" },
   { streamer: "Johao Mendoza", username: "Littksluvkat", tag: "SOLO", rol: "mid" },
   { streamer: "Marcelo Loaiza", username: "Makumba", tag: "0809", rol: "mid" },
 ];
